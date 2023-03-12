@@ -14,6 +14,6 @@ console.log('hello there')
 
  console.log('graduated from PTRI')
 
- console.log('cannont believe it!')
+ 
 
  console.log('back to DDIA')
